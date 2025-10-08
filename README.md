@@ -14,7 +14,7 @@ Model Development – Implemented a Linear Regression model to predict fantasy p
 
 Evaluation & Interpretation – Measured model accuracy using R² and Mean Squared Error (MSE). Interpreted coefficient weights to determine which factors had the greatest influence on fantasy value.
 
-Forecasting Insights Applied the trained model to project next-season fantasy performance, highlighting potential breakout or undervalued running backs.
+Forecasting Insights – Applied the trained model to project next-season fantasy performance, highlighting potential breakout or undervalued running backs.
 
 #### Key Findings:
 
