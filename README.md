@@ -1,4 +1,4 @@
-# Fantasy Football Running Back Performance Analysis & Forecasting
+## Fantasy Football Performance Analysis & Forecasting
 
 **This project explores fantasy football performance data to identify the most productive NFL running backs and forecast future outcomes based on key statistical indicators. Using Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), I conducted a full end-to-end data analysis pipeline — from data preparation and visualization through model development and evaluation.**
 
